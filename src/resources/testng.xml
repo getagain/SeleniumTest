@@ -1,0 +1,9 @@
+<suite name="SeleniumTest">
+
+<test name="tests">
+<classes>
+<class name="org.test.AppTest"/>
+</classes>
+</test>
+
+</suite>
